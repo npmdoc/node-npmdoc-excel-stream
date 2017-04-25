@@ -32,7 +32,7 @@
 <tspan x="10" y="474">  │ │   └── frac@0.3.1 </tspan>
 <tspan x="10" y="490">  │ ├─┬ xlsjs@0.7.6 </tspan>
 <tspan x="10" y="506">  │ │ └── cfb@0.11.1 </tspan>
-<tspan x="10" y="522">  │ └─┬ xlsx@0.9.11 </tspan>
+<tspan x="10" y="522">  │ └─┬ xlsx@0.9.12 </tspan>
 <tspan x="10" y="538">  │   ├─┬ adler-32@1.0.0 </tspan>
 <tspan x="10" y="554">  │   │ ├── concat-stream@1.6.0 </tspan>
 <tspan x="10" y="570">  │   │ └── printj@1.0.0 </tspan>
