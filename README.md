@@ -1,4 +1,7 @@
-# api documentation for  [excel-stream (v1.1.1)](https://github.com/dominictarr/excel-stream)  [![npm package](https://img.shields.io/npm/v/npmdoc-excel-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-excel-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-excel-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-excel-stream)
+# npmdoc-excel-stream
+
+#### basic api documentation for  [excel-stream (v1.1.1)](https://github.com/dominictarr/excel-stream)  [![npm package](https://img.shields.io/npm/v/npmdoc-excel-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-excel-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-excel-stream.svg)](https://travis-ci.org/npmdoc/node-npmdoc-excel-stream)
+
 #### convert a stream of xls or xlsx into json on the command line or in node
 
 [![NPM](https://nodei.co/npm/excel-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/excel-stream)
